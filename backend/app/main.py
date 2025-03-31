@@ -16,7 +16,7 @@ app = FastAPI(title="URL Shortener API", lifespan=lifespan)
 
 origins=[
     "http://localhost:3000",
-    "https://url-shortener-six-kappa.vercel.app/"
+    "https://url-shortener-six-kappa.vercel.app"
 ]
 
 app.add_middleware(
