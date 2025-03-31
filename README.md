@@ -1,5 +1,5 @@
 # Test the app
-LINK TODO
+https://url-shortener-six-kappa.vercel.app/
 
 
 ## How to run locally
